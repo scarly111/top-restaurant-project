@@ -1,4 +1,4 @@
-# 🍕 Restaurant Page
+# Restaurant Page
 
 A simple restaurant homepage built using modular JavaScript and Webpack.
 
@@ -6,7 +6,7 @@ This project was completed as part of [The Odin Project](https://www.theodinproj
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **JavaScript (ES6 modules)**
 - **Webpack** for bundling
@@ -14,7 +14,7 @@ This project was completed as part of [The Odin Project](https://www.theodinproj
 
 ---
 
-## ✨ Features
+## Features
 
 - Modular page design using ES6 modules
 
@@ -26,7 +26,7 @@ This project was completed as part of [The Odin Project](https://www.theodinproj
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation
 
@@ -48,5 +48,5 @@ This will open the app in your browser at http://localhost:8080.
 
 ---
 
-## 📚 Credits
+## Credits
 - This project is part of [The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page) JavaScript curriculum.
